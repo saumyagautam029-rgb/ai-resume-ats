@@ -22,5 +22,4 @@ AI-powered resume screening with semantic matching, ATS scoring, and intelligent
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-<img width="598" height="425" alt="image" src="https://github.com/user-attachments/assets/a8aaec94-9415-4b08-bfa2-50831def0d40" />
 
